@@ -1,0 +1,10 @@
+ЗАДАЧА : ФИО, возраст, количество домашних животных, будущая желаемая 
+зарплата
+
+
+data = {
+"full_name" : "Slotin Leonid Vyacheslavovich",
+"age" : 29,
+"number_of_pets" : 2,
+"desired_salary": 75000
+}
